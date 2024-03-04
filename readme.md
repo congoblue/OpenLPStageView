@@ -12,7 +12,7 @@ This custom stage view reproduces the standard OpenLP stage view but works on ol
 - In OpenLP, go to Tools->Open Data Folder
 - Go to Stages folder
 - Make a subfolder called (for example) "singer"
-- Unzip the zip into this folder
+- Unzip the zip into this folder (if unzip puts the files into another subfolder, move them into the \singer folder - you should have stage.html, stage.css, stage.js in the folder)
 
 ## Operation
 
